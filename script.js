@@ -5,5 +5,5 @@ let quote = 'You had me at "hello"'
 console.log(bestColor + ' ' + quote);
 // console.log(animal[7]);
 
-let whisper = "   I love u   "
+const whisper = "    TASTE THE RAINBOW!  ";
 console.log(whisper.trim().toLocaleLowerCase());
